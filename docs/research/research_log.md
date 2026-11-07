@@ -2,7 +2,7 @@
 
 | # | Source (APA) | Type | Link | Key finding | Gap it shows |
 |---|--------------|------|------|-------------|--------------|
-| 1 |  | Research paper |  |  |  |
+| 1 | Ndahetuye, J. B., Artursson, K., Båge, R., Ingabire, A., Karege, C., Djangwani, J., Nyman, A.-K., Ongol, M. P., Tukei, M., & Persson, Y. (2020). MILK Symposium review: Microbiological quality and safety of milk from farm to milk collection centers in Rwanda. *Journal of Dairy Science, 103*(11), 9730–9739. https://doi.org/10.3168/jds.2020-18302 | Research paper | https://nru.uncst.go.ug/items/cf8337e5-32c9-4ef4-875b-acd64c231eb9 | Bacterial counts were high in milk at collection centres, suggesting contamination or bacterial growth during transport | Based on lab sampling only; it has no system that records each delivery, rejects bad batches, pays farmers or alerts managers |
 | 2 |  | Research paper |  |  |  |
 | 3 |  | Report or statistic |  |  |  |
 | 4 |  | Existing system |  |  |  |
