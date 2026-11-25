@@ -68,3 +68,16 @@ PHASE  II
 - *Normalization (UNF to 3NF):* [docs/design/normalization.pdf](docs/design/normalization.pdf)
 - *ERD:* [docs/design/erd.drawio.png](docs/design/erd.drawio.png)
 - *Data dictionary:* [docs/design/data_dictionary.pdf](docs/design/data_dictionary.pdf)
+
+
+
+PHASE III
+
+
+## Phase III – Database (PDB) Creation
+- **PDB:** b_29767_pitie_milktrack_db (Oracle 21c)
+- **Admin user:** pitie_admin (DBA role)
+- **Tablespaces:** milktrack_data (100M), milktrack_idx (50M), milktrack_temp (50M)
+- **Scripts:** [database/setup/](database/setup/)
+- **Screenshots:** [screenshots/](screenshots/)
+
