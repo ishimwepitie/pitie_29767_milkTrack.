@@ -81,3 +81,16 @@ PHASE III
 - **Scripts:** [database/setup/](database/setup/)
 - **Screenshots:** [screenshots/](screenshots/)
 
+
+
+
+PHASE  IV
+
+
+## Phase IV - Tables, Data Loading and Validation
+- database/ddl: tables, constraints, indexes, views (01-04)
+- database/dml: staging load, cleaning, data load (05-07)
+- database/tests: constraint tests, cascade tests, validation (08-10)
+- queries: sample analytical queries
+- docs/design: ERD and data dictionary
+- screenshots: proof of each script run
